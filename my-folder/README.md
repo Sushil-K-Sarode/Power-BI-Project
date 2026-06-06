@@ -1,6 +1,5 @@
 # Healthcare Performance Analytics Dashboard
 
-![Dashboard Preview](screenshots/01_executive_summary.png)
 
 ## Project Overview
 An end-to-end Power BI dashboard analyzing 10,252 patient records 
@@ -40,24 +39,6 @@ and financial operations.
 
 ---
 
-## Dashboard Screenshots
-
-### Executive Summary
-![Executive Summary](screenshots/01_executive_summary.png)
-
-### Patient Demographics
-![Patient Demographics](screenshots/02_patient_demographics.png)
-
-### Clinical Insights
-![Clinical Insights](screenshots/03_clinical_insights.png)
-
-### Doctors Performance
-![Doctors Performance](screenshots/04_doctors_performance.png)
-
-### Finance & Operations
-![Finance Operations](screenshots/05_finance_operations.png)
-
----
 
 ## Technical Details
 
